@@ -1,6 +1,6 @@
 {
   
-  "name": "Aiff",
-  "action": "do homework",
+  "color": "#00ff00",
+  "message": "Back from API!",
   "user": "@me"
 }
